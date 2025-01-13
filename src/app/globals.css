@@ -2,3 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
+.pagination-link {
+    transition: all 0.3 ease;
+}
+
+.pagination-link:hover {
+    transform: scale(1.1);
+    font-weight: bold;
+}
+
+
+@keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  .animate-fade-in {
+    animation: fade-in 1s ease-out;
+  }
+  

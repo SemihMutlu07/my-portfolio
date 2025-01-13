@@ -1,16 +1,17 @@
 [
   {
-    "id": 1,
-    "title": "Portfolio Website",
-    "description": "A personal portfolio built with Next.js and Tailwind CSS.",
-    "link": "https://myportfolio.com",
-    "technologies": ["Next.js", "Tailwind CSS", "TypeScript"]
+    "name": "Letterboxd Clone",
+    "description": "A movie review platform inspired by Letterboxd.",
+    "url": "https://example.com/letterboxd"
   },
   {
-    "id": 2,
-    "title": "E-commerce Platform",
-    "description": "An online store with a custom checkout process.",
-    "link": "https://myecommerce.com",
-    "technologies": ["React", "Node.js", "MongoDB"]
+    "name": "Portfolio Site",
+    "description": "The site you're viewing right now!",
+    "url": "https://example.com/portfolio"
+  },
+  {
+    "name": "Task Manager",
+    "description": "A simple task manager built with React.",
+    "url": "https://example.com/taskmanager"
   }
 ]
