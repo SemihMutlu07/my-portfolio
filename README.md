@@ -4,7 +4,7 @@ A personal portfolio website built with Next.js and Tailwind CSS to showcase my 
 
 ## Features
 - Fully responsive design
-- Dynamic project fetching from GitHub
+- Dynamic project fetching from GitHub (will available after I made some projects.)
 - Interactive navigation menu
 - Integrated contact section
 
